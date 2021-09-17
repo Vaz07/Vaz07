@@ -4,11 +4,8 @@ I am João Vaz from Portugal. Currently I am studying computer engineering. For 
 
 <div style=" display: inline-block">
  <img src= "https://github-readme-stats.vercel.app/api?username=Vaz07&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Vaz07&theme=dark" />
+ <!-- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Vaz07&theme=dark" /> -->
 </div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaz07)](https://github.com/Vaz07/github-readme-stats) -->
-
 
 ---
 ## 💻 Skills
