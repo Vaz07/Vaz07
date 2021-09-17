@@ -4,13 +4,16 @@ I am João Vaz from Portugal. Currently I am studying computer engineering. For 
 
 <img src= "https://github-readme-stats.vercel.app/api?username=Vaz07&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaz07)](https://github.com/Vaz07/github-readme-stats) -->
+
+
 ---
 ## 💻 Skills
 <div style=" display: inline-block"><br>
  <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
- 
+ <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </div>
 
 ![Snake animation](https://github.com/Vaz07/Vaz07/blob/output/github-contribution-grid-snake.svg)
