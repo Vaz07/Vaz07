@@ -1,6 +1,6 @@
 # <p align=center> Welcome 👋🏼, I'm Vaz07 </p>
 
-I am João Vaz from Portugal. Currently I am studying computer engineering. For now most of my work are academic project for the subjects. 
+I am João Vaz from Portugal. Currently I am studying computer engineering. For now most of my work are academic project for the subjects so everything will be private 🤷‍♂️. 
 
 <div style=" display: inline-block">
  <img src= "https://github-readme-stats.vercel.app/api?username=Vaz07&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
