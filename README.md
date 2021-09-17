@@ -2,10 +2,11 @@
 
 I am João Vaz from Portugal. Currently I am studying computer engineering and I love sports 🏀
 
-💻 Skills
-* Python
-* Java
-* Matlab
+## 💻 Skills
+<div style=" display: inline-block"><br>
+ <img height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaz07&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ### **Check my Socials here**
