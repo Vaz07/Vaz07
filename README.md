@@ -1,6 +1,6 @@
 # <p align=center> Welcome 👋🏼, I'm Vaz07 </p>
 
-I am João Vaz from Portugal. Currently I am studying computer engineering and I love sports 🏀. For now most of my work are academic project for the subjects. 
+I am João Vaz from Portugal. Currently I am studying computer engineering. For now most of my work are academic project for the subjects. 
 
 <img src= "https://github-readme-stats.vercel.app/api?username=Vaz07&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 
@@ -14,6 +14,10 @@ I am João Vaz from Portugal. Currently I am studying computer engineering and I
 </div>
 
 ![Snake animation](https://github.com/Vaz07/Vaz07/blob/output/github-contribution-grid-snake.svg)
+
+* 😄 I'm want to learn a lot of things, help people and finfish my degree with the best average I can;
+* 🥰 I have one person in my life that makes me truly happy;
+* ✨ Fun fact: I love sports 🏀; 
 ---
 ### **Check my Socials here:**
 
