@@ -9,7 +9,7 @@ I am João Vaz from Portugal. Currently I am studying computer engineering and I
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaz07&show_icons=true&theme=dark)
 
-## **Check my Socials here**
+### **Check my Socials here**
 
 ---
 
