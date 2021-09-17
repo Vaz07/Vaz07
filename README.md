@@ -7,7 +7,7 @@ I am João Vaz from Portugal. Currently I am studying computer engineering and I
 * Java
 * Matlab
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaz07&show_icons=true&theme=dark)
 
 ### **Check my Socials here**
 
