@@ -13,12 +13,9 @@ I am João Vaz from Portugal. Currently I am studying computer engineering and I
  
 </div>
 
----
 ![Snake animation](https://github.com/Vaz07/Vaz07/blob/output/github-contribution-grid-snake.svg)
 ---
 ### **Check my Socials here:**
-
-
 
  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30' >](https://www.instagram.com/jvaz010/?hl=pt)
   [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/Jvaz010)
