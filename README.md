@@ -1,7 +1,7 @@
 # <p align=center> Welcome 👋🏼, I'm Vaz07 </p>
 
-I am João Vaz from Portugal. Currently I am studying computer engineering. For now most of my work are academic project for the subjects so everything will be private 🤷‍♂️. 
-
+ I am João Vaz from Portugal. Currently I am studying computer engineering. For now most of my work are academic projects for the subjects so everything will be private 🤷‍♂️. <!--Since I'm 14 that I want to study computer engineering. I'm a very active person so I try to be physically active as much as I can (personal life and my degree comes first obviously)
+ -->
 <div style=" display: inline-block">
  <img src= "https://github-readme-stats.vercel.app/api?username=Vaz07&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 </div>
@@ -10,7 +10,7 @@ I am João Vaz from Portugal. Currently I am studying computer engineering. For 
 ## 💻 Skills
 <div style=" display: inline-block"><br>
  <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
  <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </div>
